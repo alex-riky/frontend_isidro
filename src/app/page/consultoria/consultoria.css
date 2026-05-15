@@ -1,0 +1,10 @@
+.service-page {
+  padding: 1.4rem;
+}
+.service-page h1 {
+  margin-bottom: 1rem;
+}
+.service-page ul {
+  list-style: disc;
+  margin-left: 1.4rem;
+}

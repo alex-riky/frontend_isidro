@@ -1,0 +1,14 @@
+<h1><strong>{{ user.name }}</strong></h1>
+<p>home esta funcionando</p>
+
+@if(user.status){
+    <p style="color: rgb(34, 157, 0);">Usuario Activo</p>
+     }@else{
+        <p style="color: rgb(181, 0, 0);">Usuario Inactivo</p>
+}
+
+<ul>
+    @for(fruta of frutas; track fruta){
+        <li>{{ fruta }}</li>
+    }
+</ul>
