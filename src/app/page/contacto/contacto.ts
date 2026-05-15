@@ -4,6 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-contacto',
   imports: [],
   templateUrl: './contacto.html',
-  styleUrl: './contacto.css',
+  styleUrl: './theme-contact.css',
 })
 export class ContactoPages {}

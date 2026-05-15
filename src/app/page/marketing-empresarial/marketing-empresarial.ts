@@ -4,6 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-marketing-empresarial',
   imports: [],
   templateUrl: './marketing-empresarial.html',
-  styleUrl: './marketing-empresarial.css',
+  styleUrl: './theme-marketing.css',
 })
 export class MarketingEmpresarialPages {}

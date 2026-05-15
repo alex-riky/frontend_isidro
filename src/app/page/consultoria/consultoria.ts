@@ -4,6 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-consultoria',
   imports: [],
   templateUrl: './consultoria.html',
-  styleUrl: './consultoria.css',
+  styleUrl: './theme-consultoria.css',
 })
 export class ConsultoriaPages {}

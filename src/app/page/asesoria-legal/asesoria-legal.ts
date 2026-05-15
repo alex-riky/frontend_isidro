@@ -4,6 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-asesoria-legal',
   imports: [],
   templateUrl: './asesoria-legal.html',
-  styleUrl: './asesoria-legal.css',
+  styleUrl: './theme-legal.css',
 })
 export class AsesoriaLegalPages {}

@@ -4,6 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-desarrollo',
   imports: [],
   templateUrl: './desarrollo.html',
-  styleUrl: './desarrollo.css',
+  styleUrl: './styles-dev.css',
 })
 export class DesarrolloPages {}

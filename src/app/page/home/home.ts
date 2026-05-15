@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-home',
   imports: [],
   templateUrl: './home.html',
-  styleUrl: './home.css',
+  styleUrl: './styles-home.css',
 })
 export class Home {
   nombre: string = 'ALDO ALEXANDER';
